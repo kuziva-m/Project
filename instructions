@@ -1,0 +1,42 @@
+Installation Requirements
+    Node.js and npm:
+
+    Ensure you have Node.js installed. npm comes bundled with Node.js, so you’ll have access to both.
+    MySQL:
+
+Install MySQL server. 
+    You can download it from the MySQL official site. Or try use xamp
+    Configure the MySQL server with the following details:
+    Host: localhost
+    User: root
+    Password: KuzivasMysql@2003
+    Database: Zim_Tour
+    Ensure that the MySQL service is running.
+
+Next.js:
+
+    If not already installed, you can create a new Next.js project using the following command:
+    
+    npx create-next-app@latest
+
+Project Dependencies:
+
+Navigate to your project directory in the terminal and run:
+
+npm install
+This command will install all the necessary dependencies listed in your package.json file.
+Running the Application:
+
+After installing dependencies, you can start the application with:
+
+npm run dev
+
+Your application will typically be accessible at http://localhost:3000.
+
+Extensions 
+
+1) ES7+ React/Redux/React-Native snippets
+2) HTML CSS Support
+3) JavaScript (ES6) code snippets
+4) JavaScript and TypeScript Nightly
+5) Prettier - Code formatter

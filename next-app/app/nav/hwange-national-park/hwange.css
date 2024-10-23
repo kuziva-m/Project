@@ -1,0 +1,7 @@
+.container  {
+        background-image: url('./images/zim.jpg');
+        background-size: cover;       /* Ensure the image covers the whole background */
+        background-position: center;  /* Centers the image */
+        height: 100vh;                /* Full height */
+        width: 100%;                  /* Full width */
+      }

@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-ZimTourApplication<zim-tour>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "com.zimtour.zim_tour.ZimTourApplication",
+      "projectName": "zim-tour",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}
